@@ -1,3 +1,6 @@
 .env
 *.sqlite
 test.py
+
+# Ignore Python cache directories
+__pycache__/
